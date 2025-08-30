@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\IUTT\\Orphan System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|e:\\iutt\\orphan system\\orphan system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|solutionrelative:orphan system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|E:\\IUTT\\Orphan System\\orphan system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|solutionrelative:orphan system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|E:\\IUTT\\Orphan System\\orphan system\\orohane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|solutionrelative:orphan system\\orohane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|E:\\IUTT\\Orphan System\\orphan system\\add_abuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|solutionrelative:orphan system\\add_abuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|e:\\iutt\\orphan system\\orphan system\\orohane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|solutionrelative:orphan system\\orohane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|E:\\IUTT\\Orphan System\\orphan system\\add_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|solutionrelative:orphan system\\add_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|E:\\IUTT\\Orphan System\\orphan system\\add_lost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|solutionrelative:orphan system\\add_lost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|E:\\IUTT\\Orphan System\\orphan system\\crimnal_kids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|solutionrelative:orphan system\\crimnal_kids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|E:\\IUTT\\Orphan System\\orphan system\\add_crimnal_kids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|solutionrelative:orphan system\\add_crimnal_kids.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|E:\\IUTT\\Orphan System\\orphan system\\search_for_lost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|solutionrelative:orphan system\\search_for_lost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|E:\\IUTT\\Orphan System\\orphan system\\search_for_abuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|solutionrelative:orphan system\\search_for_abuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|E:\\IUTT\\Orphan System\\orphan system\\orphan_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}|Orphan System\\Orphan System.csproj|solutionrelative:orphan system\\orphan_search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\IUTT\\Orphan System\\Orphan System\\Form1.cs",
+              "RelativeDocumentMoniker": "Orphan System\\Form1.cs",
+              "ToolTip": "E:\\IUTT\\Orphan System\\Orphan System\\Form1.cs*",
+              "RelativeToolTip": "Orphan System\\Form1.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T00:57:31.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Orohane.cs",
+              "DocumentMoniker": "E:\\IUTT\\Orphan System\\Orphan System\\Orohane.cs",
+              "RelativeDocumentMoniker": "Orphan System\\Orohane.cs",
+              "ToolTip": "E:\\IUTT\\Orphan System\\Orphan System\\Orohane.cs",
+              "RelativeToolTip": "Orphan System\\Orohane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T02:01:32.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add_Abuser.cs [Design]",
+              "DocumentMoniker": "E:\\IUTT\\Orphan System\\Orphan System\\Add_Abuser.cs",
+              "RelativeDocumentMoniker": "Orphan System\\Add_Abuser.cs",
+              "ToolTip": "E:\\IUTT\\Orphan System\\Orphan System\\Add_Abuser.cs [Design]",
+              "RelativeToolTip": "Orphan System\\Add_Abuser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:51:12.362Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add_info.cs [Design]",
+              "DocumentMoniker": "E:\\IUTT\\Orphan System\\Orphan System\\Add_info.cs",
+              "RelativeDocumentMoniker": "Orphan System\\Add_info.cs",
+              "ToolTip": "E:\\IUTT\\Orphan System\\Orphan System\\Add_info.cs [Design]",
+              "RelativeToolTip": "Orphan System\\Add_info.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:29:24.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Crimnal_Kids.cs [Design]",
+              "DocumentMoniker": "E:\\IUTT\\Orphan System\\Orphan System\\Crimnal_Kids.cs",
+              "RelativeDocumentMoniker": "Orphan System\\Crimnal_Kids.cs",
+              "ToolTip": "E:\\IUTT\\Orphan System\\Orphan System\\Crimnal_Kids.cs [Design]",
+              "RelativeToolTip": "Orphan System\\Crimnal_Kids.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:40:37.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Orohane.cs [Design]",
+              "DocumentMoniker": "E:\\IUTT\\Orphan System\\Orphan System\\Orohane.cs",
+              "RelativeDocumentMoniker": "Orphan System\\Orohane.cs",
+              "ToolTip": "E:\\IUTT\\Orphan System\\Orphan System\\Orohane.cs [Design]",
+              "RelativeToolTip": "Orphan System\\Orohane.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:10:55.232Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\IUTT\\Orphan System\\Orphan System\\Form1.cs",
+              "RelativeDocumentMoniker": "Orphan System\\Form1.cs",
+              "ToolTip": "E:\\IUTT\\Orphan System\\Orphan System\\Form1.cs [Design]*",
+              "RelativeToolTip": "Orphan System\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T23:34:26.135Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add_lost.cs [Design]",
+              "DocumentMoniker": "E:\\IUTT\\Orphan System\\Orphan System\\Add_lost.cs",
+              "RelativeDocumentMoniker": "Orphan System\\Add_lost.cs",
+              "ToolTip": "E:\\IUTT\\Orphan System\\Orphan System\\Add_lost.cs [Design]",
+              "RelativeToolTip": "Orphan System\\Add_lost.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:45:58.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add_Crimnal_Kids.cs [Design]",
+              "DocumentMoniker": "E:\\IUTT\\Orphan System\\Orphan System\\Add_Crimnal_Kids.cs",
+              "RelativeDocumentMoniker": "Orphan System\\Add_Crimnal_Kids.cs",
+              "ToolTip": "E:\\IUTT\\Orphan System\\Orphan System\\Add_Crimnal_Kids.cs [Design]",
+              "RelativeToolTip": "Orphan System\\Add_Crimnal_Kids.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:42:42.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Search_For_Lost.cs [Design]",
+              "DocumentMoniker": "E:\\IUTT\\Orphan System\\Orphan System\\Search_For_Lost.cs",
+              "RelativeDocumentMoniker": "Orphan System\\Search_For_Lost.cs",
+              "ToolTip": "E:\\IUTT\\Orphan System\\Orphan System\\Search_For_Lost.cs [Design]",
+              "RelativeToolTip": "Orphan System\\Search_For_Lost.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:48:47.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Search_for_Abuser.cs [Design]",
+              "DocumentMoniker": "E:\\IUTT\\Orphan System\\Orphan System\\Search_for_Abuser.cs",
+              "RelativeDocumentMoniker": "Orphan System\\Search_for_Abuser.cs",
+              "ToolTip": "E:\\IUTT\\Orphan System\\Orphan System\\Search_for_Abuser.cs [Design]",
+              "RelativeToolTip": "Orphan System\\Search_for_Abuser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:53:39.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Orphan_Search.cs [Design]",
+              "DocumentMoniker": "E:\\IUTT\\Orphan System\\Orphan System\\Orphan_Search.cs",
+              "RelativeDocumentMoniker": "Orphan System\\Orphan_Search.cs",
+              "ToolTip": "E:\\IUTT\\Orphan System\\Orphan System\\Orphan_Search.cs [Design]",
+              "RelativeToolTip": "Orphan System\\Orphan_Search.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T00:37:37.454Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
