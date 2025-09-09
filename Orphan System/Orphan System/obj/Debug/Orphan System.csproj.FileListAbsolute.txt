@@ -1,0 +1,64 @@
+E:\IUTT\Orphan System\Orphan System\bin\Debug\Orphan System.exe.config
+E:\IUTT\Orphan System\Orphan System\bin\Debug\Orphan System.exe
+E:\IUTT\Orphan System\Orphan System\bin\Debug\Orphan System.pdb
+E:\IUTT\Orphan System\Orphan System\obj\Debug\Orphan System.csproj.AssemblyReference.cache
+E:\IUTT\Orphan System\Orphan System\obj\Debug\Orphan_System.Properties.Resources.resources
+E:\IUTT\Orphan System\Orphan System\obj\Debug\Orphan System.csproj.GenerateResource.cache
+E:\IUTT\Orphan System\Orphan System\obj\Debug\Orphan System.csproj.CoreCompileInputs.cache
+E:\IUTT\Orphan System\Orphan System\obj\Debug\Orphan System.exe
+E:\IUTT\Orphan System\Orphan System\obj\Debug\Orphan System.pdb
+E:\IUTT\Orphan System\Orphan System\obj\Debug\Orphan System.exe.config
+E:\IUTT\Orphan System\Orphan System\obj\Debug\Orphan_System.Login.resources
+E:\IUTT\Orphan System\Orphan System\obj\Debug\Orphan_System.Orphane.resources
+E:\IUTT\Orphan System\Orphan System\obj\Debug\Orphan_System.Add_Abuser.resources
+E:\IUTT\Orphan System\Orphan System\obj\Debug\Orphan_System.Add_Crimnal_Kids.resources
+E:\IUTT\Orphan System\Orphan System\obj\Debug\Orphan_System.Add_orphan.resources
+E:\IUTT\Orphan System\Orphan System\obj\Debug\Orphan_System.Add_lost.resources
+E:\IUTT\Orphan System\Orphan System\obj\Debug\Orphan_System.Search_Crimnal_Kids.resources
+E:\IUTT\Orphan System\Orphan System\obj\Debug\Orphan_System.Orphan_Search.resources
+E:\IUTT\Orphan System\Orphan System\obj\Debug\Orphan_System.Search_for_Abuser.resources
+E:\IUTT\Orphan System\Orphan System\obj\Debug\Orphan_System.Search_For_Lost.resources
+F:\Orphan System\Orphan System\obj\Debug\Orphan System.csproj.AssemblyReference.cache
+F:\Orphan System\Orphan System\obj\Debug\Orphan System.csproj.SuggestedBindingRedirects.cache
+F:\Orphan System\Orphan System\obj\Debug\Orphan_System.Add_Abuser.resources
+F:\Orphan System\Orphan System\obj\Debug\Orphan_System.Add_Crimnal_Kids.resources
+F:\Orphan System\Orphan System\obj\Debug\Orphan_System.Add_orphan.resources
+F:\Orphan System\Orphan System\obj\Debug\Orphan_System.Add_lost.resources
+F:\Orphan System\Orphan System\obj\Debug\Orphan_System.Search_Crimnal_Kids.resources
+F:\Orphan System\Orphan System\obj\Debug\Orphan_System.Login.resources
+F:\Orphan System\Orphan System\obj\Debug\Orphan_System.Orphane.resources
+F:\Orphan System\Orphan System\obj\Debug\Orphan_System.Orphan_Search.resources
+F:\Orphan System\Orphan System\obj\Debug\Orphan_System.Properties.Resources.resources
+F:\Orphan System\Orphan System\obj\Debug\Orphan_System.Search_for_Abuser.resources
+F:\Orphan System\Orphan System\obj\Debug\Orphan_System.Search_For_Lost.resources
+F:\Orphan System\Orphan System\obj\Debug\Orphan System.csproj.GenerateResource.cache
+F:\Orphan System\Orphan System\obj\Debug\Orphan System.csproj.CoreCompileInputs.cache
+F:\Orphan System\Orphan System\obj\Debug\Orphan System.exe
+F:\Orphan System\Orphan System\obj\Debug\Orphan System.pdb
+F:\Orphan System\Orphan System\bin\Debug\Orphan System.exe.config
+F:\Orphan System\Orphan System\bin\Debug\Orphan System.exe
+F:\Orphan System\Orphan System\bin\Debug\Orphan System.pdb
+C:\Users\DELL\source\repos\Orphan System\Orphan System\bin\Debug\Orphan System.exe.config
+C:\Users\DELL\source\repos\Orphan System\Orphan System\bin\Debug\Orphan System.exe
+C:\Users\DELL\source\repos\Orphan System\Orphan System\bin\Debug\Orphan System.pdb
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan System.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan System.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan_System.Add_Crimnal_Kids.resources
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan_System.Add_orphan.resources
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan_System.Add_lost.resources
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan_System.Search_Crimnal_Kids.resources
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan_System.Login.resources
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan_System.Orphane.resources
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan_System.Orphan_Search.resources
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan_System.Properties.Resources.resources
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan_System.Search_for_Abuser.resources
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan_System.Search_For_Lost.resources
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan System.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan System.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan System.exe
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan System.pdb
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan_System.sign_in.resources
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan_System.cop.resources
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan_System.sherif.resources
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan_System.supervisor.resources
+C:\Users\DELL\source\repos\Orphan System\Orphan System\obj\Debug\Orphan_System.Add_carehouse.resources
