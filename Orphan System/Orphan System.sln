@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orphan System", "Orphan System\Orphan System.csproj", "{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F5F193-9CB2-45BB-AB34-81D60EEBC710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED67A1D3-5FFD-4891-97F8-68B3F9D620DB}
+	EndGlobalSection
+EndGlobal
